@@ -12,6 +12,7 @@
 #include "file_system_shared.h"
 #include "ext2_rm_bonus.h"
 
+
 /* PRECONDITION: a directory inode should be passed as an argument
 removes a directory with it's content files
 PARAM: disk, a pointer to the mapped image disk

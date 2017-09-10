@@ -12,7 +12,6 @@
 #include "ext2.h"
 #include "file_system_shared.h"
 
-
 /*
 Opens the file and the assigns the pointer disk_ref on the image_disk_file 
 PARAMS: file, the image disk file name

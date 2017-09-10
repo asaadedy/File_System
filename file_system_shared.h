@@ -2,6 +2,7 @@
 #define _FILE_SYSTEM_SHARED_H_
 #include "ext2.h"
 
+
 extern unsigned char * disk_pointer(char * file);
 extern int find_inode(unsigned char *disk_ref, unsigned int inode, char * path);
 extern void clean_path(char * path);

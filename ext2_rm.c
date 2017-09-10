@@ -12,6 +12,7 @@
 #include "file_system_shared.h"
 #include "ext2_rm_bonus.h"
 
+
 int main(int argc, char **argv){
 
 	unsigned char * disk = NULL;	

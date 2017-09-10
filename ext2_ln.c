@@ -10,6 +10,7 @@
 #include <sys/stat.h>
 #include "ext2.h"
 #include "file_system_shared.h"
+
 /*A global pointer to the current location of the image disk*/
 unsigned char * disk;
 

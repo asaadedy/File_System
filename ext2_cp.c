@@ -95,4 +95,3 @@ int main(int argc, char **argv){
     new_inode->i_size = sb.st_size;
 	return 0;
 }
-
